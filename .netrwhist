@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/tony/apps/qianfandu'
+let g:netrw_dirhist_2='/Users/tony/apps/crawl_trunk'
+let g:netrw_dirhist_3='/Users/tony/apps/qianfandu_oa'
+let g:netrw_dirhist_4='/Users/tony/apps/qianfandu_oa/config/deploy'
+let g:netrw_dirhist_5='/Users/tony/apps/crawl_trunk'
+let g:netrw_dirhist_6='/Users/tony/apps/qianfandu_oa'
+let g:netrw_dirhist_7='/Users/tony/apps/crawl_trunk'
+let g:netrw_dirhist_8='/Users/tony'
+let g:netrw_dirhist_9='/Users/tony/apps/crawl_trunk'
